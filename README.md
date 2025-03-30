@@ -5,6 +5,8 @@ This example investigates the debonding of a double cantilever beam, utilizing t
 
 For this project, we can use either the direct cyclic solver or the general static solver. To simplify the process, the static solver has been used.
 
+If you encounter any issues importing the attached INP files and analyzing them in Abaqus, you can refer to the PDF guide included in this repository, titled "How to Analyze.pdf".
+
 For in-depth training on fatigue analysis for various materials in Abaqus, feel free to explore our website.
 
 ![image](https://github.com/user-attachments/assets/60d04c1d-92ae-4f1e-835e-d63007c1b2bc)
