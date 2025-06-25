@@ -1,4 +1,7 @@
 # Fatigue-induced-debonding-of-a-double-cantilever-beam-in-Abaqus
+
+✅ This is the complete source code for the project, ready to use.✨
+
 This example investigates the debonding of a double cantilever beam, utilizing the fatigue crack growth criterion to evaluate fatigue life under sub-critical cyclic loading. In the project, the initiation and propagation of delamination are described using the Paris law, which correlates the crack growth rate with the relative fracture energy release rate. The fracture energy release rate at the crack tip is determined using the VCCT method.
 
 ![image](https://github.com/user-attachments/assets/ae75feb0-19f3-49fb-8aba-5b65542048cc)
